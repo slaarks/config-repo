@@ -1,2 +1,13 @@
 tracer:
   property: "I AM THE DEFAULT VALUE."
+
+spring:
+  jpa:
+    database: POSTGRESQL
+    show-sql: true
+    generate-ddl: true
+  datasource:
+    platform: postgres
+    url: jdbc:postgresql://localhost:5432/random_db
+    username: random_user
+    password: random_pass
