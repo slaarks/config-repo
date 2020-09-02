@@ -1,5 +1,5 @@
 tracer:
-  property: "I AM THE NEWEST DEFAULT VALUE."
+  property: "I AM THE NEWEST DEFAULT VALUE (1)."
 
 spring:
   jpa:
