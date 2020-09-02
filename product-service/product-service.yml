@@ -10,4 +10,4 @@ spring:
     platform: postgres
     url: jdbc:postgresql://localhost:5432/random_db
     username: random_user
-    password: random_pass
+    password: 07215c09c33ddef02d8729cbfb03a38b054b1916bed1edb08795d1aa89918cbd
