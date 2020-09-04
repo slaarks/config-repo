@@ -1,0 +1,13 @@
+tracer:
+  property: "I AM THE NEWEST DEFAULT VALUE (1)."
+
+spring:
+  jpa:
+    database: POSTGRESQL
+    show-sql: true
+    generate-ddl: true
+  datasource:
+    platform: postgres
+    url: jdbc:postgresql://localhost:5432/random_db
+    username: random_user
+    password: "{cipher}07215c09c33ddef02d8729cbfb03a38b054b1916bed1edb08795d1aa89918cbd"
